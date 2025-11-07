@@ -135,3 +135,4 @@ ggplot(data = df, aes(fill = popchangerate2017_2022)) +
 
 summary(lm(finaldata1$popchangerate2017_2022~finaldata1$Metropolitan.Micropolitan.Statistical.Area))
 
+
