@@ -4,14 +4,14 @@ This project analyzes U.S. county-level economic trends between 2017 and 2022 us
 
 ---
 
-## 📊 Objectives
+## Objectives
 - Quantify economic growth between 2017 and 2022 at the county level.
 - Compare development patterns across different area classifications.
 - Visualize spatial and statistical differences in regional performance.
 
 ---
 
-## 🧮 Methodology
+## Methodology
 - **Data Source:** U.S. Census Bureau — American Community Survey (ACS)  
 - **Processing Tool:** R (`tidycensus`, `tigris`, and `tidyverse` libraries)  
 - **Visualization Tools:** Tableau and LaTeX  
@@ -24,7 +24,7 @@ Change\ Rate = \frac{Value_{2022} - Value_{2017}}{Value_{2017}} \times 100
 
 ---
 
-## 🖥️ Deliverables
+## Deliverables
 | File | Description |
 |------|--------------|
 | `data/cleanedgdp.csv` | Cleaned dataset containing population, employment, and housing values for 2017 & 2022 |
@@ -35,7 +35,7 @@ Change\ Rate = \frac{Value_{2022} - Value_{2017}}{Value_{2017}} \times 100
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Metropolitan counties experienced consistent population and employment growth.
 - Rural counties showed greater housing price volatility but strong percentage increases.
 - Employment change and population growth were strongly correlated.
@@ -43,7 +43,7 @@ Change\ Rate = \frac{Value_{2022} - Value_{2017}}{Value_{2017}} \times 100
 
 ---
 
-## 🧾 Tools and Technologies
+## Tools and Technologies
 - **R** – Data acquisition and computation  
 - **Tableau** – Visualization and dashboard design  
 - **LaTeX** – Academic-style report creation  
@@ -51,7 +51,7 @@ Change\ Rate = \frac{Value_{2022} - Value_{2017}}{Value_{2017}} \times 100
 
 ---
 
-## 📚 References
+## References
 - U.S. Census Bureau – *American Community Survey (ACS)*  
 - U.S. Department of Commerce – *Bureau of Economic Analysis (BEA)*  
 - R Packages – *tidycensus, tidyverse, tigris*
