@@ -3,8 +3,8 @@
 This project analyzes U.S. county-level economic trends between 2017 and 2022 using census data and visual analytics. The analysis focuses on **population**, **employment**, and **median housing price** changes, comparing performance across **Metropolitan**, **Micropolitan**, and **Rural** regions. The project combines R-based data processing with a Tableau dashboard and a LaTeX technical report.
 
 ---
-
 ## Objectives
+- **[View the Live Interactive Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.yahya6658/vizzes)**
 - Quantify economic growth between 2017 and 2022 at the county level.
 - Compare development patterns across different area classifications.
 - Visualize spatial and statistical differences in regional performance.
